@@ -1,0 +1,9 @@
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:12.730 BaseTest:205 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:24.914 LoginTest:79 - START RECORDING BUTTON CLICKED
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:26.519 LoginTest:81 - SCREEN ORIENTATION CHANGE
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:26.664 LoginTest:84 - START VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:42.426 LoginTest:87 - STOP VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:51.471 LoginTest:91 - LOGIN BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:57.375 LoginTest:102 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:58.183 LoginTest:104 - DASHBOARD LOGOUT BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-09 23:55:58.929 LoginTest:106 - >>>>>>USER LOGGED OUT<<<<<<

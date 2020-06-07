@@ -1,0 +1,169 @@
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:25:32.365 TestUtils:67 - 2020-06-02-00-25-31
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:28:47.839 TestUtils:67 - 2020-06-02-00-28-47
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:33:17.736 TestUtils:67 - 2020-06-02-00-33-17
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:33:22.332 TestUtils:67 - 2020-06-02-00-33-21
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:35:08.404 TestUtils:67 - 2020-06-02-00-35-08
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:39:43.217 TestUtils:67 - 2020-06-02-00-39-42
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:46:29.299 TestUtils:67 - 2020-06-02-00-46-28
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:51:42.028 TestUtils:67 - 2020-06-02-00-51-41
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 00:56:54.021 TestUtils:67 - 2020-06-02-00-56-53
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:00:34.460 TestUtils:67 - 2020-06-02-01-00-34
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:09:39.362 TestUtils:67 - 2020-06-02-01-09-38
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:16:59.579 TestUtils:67 - 2020-06-02-01-16-58
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:19:47.892 TestUtils:67 - 2020-06-02-01-19-47
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:20:25.891 TestUtils:67 - 2020-06-02-01-20-25
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:21:20.145 TestUtils:67 - 2020-06-02-01-21-19
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:25:29.612 TestUtils:67 - 2020-06-02-01-25-28
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:41:09.453 TestUtils:67 - 2020-06-02-01-41-08
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 01:47:01.810 TestUtils:67 - 2020-06-02-01-47-01
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 15:18:02.308 TestUtils:67 - 2020-06-02-15-18-01
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 15:18:28.131 TestUtils:67 - 2020-06-02-15-18-27
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 16:41:56.390 TestUtils:67 - 2020-06-02-16-41-55
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 16:43:45.066 TestUtils:67 - 2020-06-02-16-43-44
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 16:46:59.593 TestUtils:67 - 2020-06-02-16-46-59
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 16:47:35.789 TestUtils:67 - 2020-06-02-16-47-35
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 16:48:26.322 TestUtils:67 - 2020-06-02-16-48-25
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 16:48:53.259 TestUtils:67 - 2020-06-02-16-48-52
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 16:54:26.174 TestUtils:67 - 2020-06-02-16-54-25
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 16:57:25.096 TestUtils:67 - 2020-06-02-16-57-24
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 17:07:10.407 TestUtils:67 - 2020-06-02-17-07-09
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 17:12:46.118 TestUtils:67 - 2020-06-02-17-12-45
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 17:23:01.940 TestUtils:67 - 2020-06-02-17-23-01
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 19:24:17.518 TestUtils:67 - 2020-06-02-19-24-17
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 19:25:09.851 TestUtils:67 - 2020-06-02-19-25-09
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 19:27:42.038 TestUtils:67 - 2020-06-02-19-27-41
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 19:30:54.162 TestUtils:67 - 2020-06-02-19-30-53
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 19:33:19.224 TestUtils:67 - 2020-06-02-19-33-18
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 19:34:36.837 TestUtils:67 - 2020-06-02-19-34-36
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 19:42:19.885 TestUtils:67 - 2020-06-02-19-42-19
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 20:38:50.184 TestUtils:67 - 2020-06-02-20-38-49
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 20:43:34.763 TestUtils:67 - 2020-06-02-20-43-34
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 20:43:43.787 TestUtils:67 - 2020-06-02-20-43-43
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 20:45:07.555 TestUtils:67 - 2020-06-02-20-45-07
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 20:45:31.537 TestUtils:67 - 2020-06-02-20-45-31
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 20:47:00.029 TestUtils:67 - 2020-06-02-20-46-59
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 20:59:42.970 TestUtils:67 - 2020-06-02-20-59-42
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 21:03:04.261 TestUtils:67 - 2020-06-02-21-03-03
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 21:18:06.760 TestUtils:67 - 2020-06-02-21-18-06
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 21:20:01.385 TestUtils:67 - 2020-06-02-21-20-00
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 21:22:41.886 TestUtils:67 - 2020-06-02-21-22-41
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 21:32:58.542 TestUtils:67 - 2020-06-02-21-32-58
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 22:06:52.535 TestUtils:67 - 2020-06-02-22-06-52
+[${ctx:ROUTINGKEY} ERROR] 2020-06-02 23:14:53.312 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:14:53.335 TestListener:41 - Base file name >>>com.qa.BaseTest@9740b7a
+[${ctx:ROUTINGKEY} ERROR] 2020-06-02 23:17:15.434 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:17:15.476 TestListener:41 - Base file name >>>com.qa.BaseTest@6d4efaf
+[${ctx:ROUTINGKEY} ERROR] 2020-06-02 23:21:15.560 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:21:15.582 TestListener:41 - Base file name >>>com.qa.BaseTest@19839ed6
+[${ctx:ROUTINGKEY} ERROR] 2020-06-02 23:26:38.040 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:26:38.078 TestListener:41 - Base file name >>>com.qa.BaseTest@d0b1279
+[${ctx:ROUTINGKEY} ERROR] 2020-06-02 23:27:09.320 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:27:09.341 TestListener:41 - Base file name >>>com.qa.BaseTest@6c31613e
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:32:37.854 BaseTest:163 - Server Start
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:32:37.880 TestUtils:67 - 2020-06-02-23-32-37
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:35:21.810 BaseTest:163 - Server Start
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:35:21.836 TestUtils:67 - 2020-06-02-23-35-21
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:37:16.620 BaseTest:163 - Server Start
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:37:16.645 TestUtils:67 - 2020-06-02-23-37-16
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:55:56.920 BaseTest:163 - Server Start
+[${ctx:ROUTINGKEY} INFO ] 2020-06-02 23:55:56.944 TestUtils:67 - 2020-06-02-23-55-56

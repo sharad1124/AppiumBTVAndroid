@@ -1,0 +1,845 @@
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:04:10.991 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:04:28.841 SettingPageTest:70 - 
+**********Starting Test******** :verifyProfileText*****
+
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:05:31.402 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:05:31.403 TestListener:41 - Base file name >>>com.qa.BaseTest@30dcbd67
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:05:33.387 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot10242365201104321185.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:06:08.086 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:06:39.007 SettingPageTest:70 - 
+**********Starting Test******** :verifyProfileText*****
+
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:06:39.118 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:06:39.120 TestListener:41 - Base file name >>>com.qa.BaseTest@638a1fa7
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:07:19.095 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:07:48.129 SettingPageTest:70 - 
+**********Starting Test******** :verifyProfileText*****
+
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:08:50.642 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:08:50.643 TestListener:41 - Base file name >>>com.qa.BaseTest@2f94c384
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:08:52.315 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot14636971795678989497.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:10:25.691 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:10:49.532 SettingPageTest:70 - 
+**********Starting Test******** :verifyProfileText*****
+
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:12:24.449 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:12:24.450 TestListener:41 - Base file name >>>com.qa.BaseTest@5d1edc5f
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:12:25.314 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot9929735502296350791.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:19:19.128 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:19:35.573 SettingPageTest:70 - 
+**********Starting Test******** :verifyProfileText*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:19:59.777 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:20:00.970 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:20:02.037 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:20:02.116 SettingPageTest:90 - LOGIN BUTTON CLICK
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:20:07.344 SettingPageTest:93 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:21:08.308 TestListener:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/green_toolbar_title}) (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:275)
+	at com.qa.BaseTest.getAttribute(BaseTest.java:311)
+	at com.qa.pages.SettingPage.getProfileHeaderText(SettingPage.java:49)
+	at com.qa.tests.SettingPageTest.verifyProfileText(SettingPageTest.java:95)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.earningvideo:id/green_toolbar_title})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 24 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@6531b147 (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.earningvideo:id/green_toolbar_title})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 33 more
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:21:08.309 TestListener:41 - Base file name >>>com.qa.BaseTest@75dcd566
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:21:08.618 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot8848668440764256212.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:21:08.640 SettingPageTest:77 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:25:55.070 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:26:09.391 SettingPageTest:70 - 
+**********Starting Test******** :verifyProfileText*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:26:36.556 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:26:37.742 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:26:38.891 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:26:38.995 SettingPageTest:90 - LOGIN BUTTON CLICK
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:26:44.094 SettingPageTest:93 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:27:45.845 TestListener:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/green_toolbar_title}) (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:275)
+	at com.qa.BaseTest.getAttribute(BaseTest.java:311)
+	at com.qa.pages.SettingPage.getProfileHeaderText(SettingPage.java:49)
+	at com.qa.tests.SettingPageTest.verifyProfileText(SettingPageTest.java:95)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.earningvideo:id/green_toolbar_title})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 24 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@33f6068c (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.earningvideo:id/green_toolbar_title})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 33 more
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:27:45.846 TestListener:41 - Base file name >>>com.qa.BaseTest@565fa565
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:27:46.155 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot924831742260437721.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:27:46.178 SettingPageTest:77 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:29:35.219 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:29:48.163 SettingPageTest:70 - 
+**********Starting Test******** :verifyProfileText*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:30:09.739 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:30:10.814 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:30:11.882 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:30:11.951 SettingPageTest:90 - LOGIN BUTTON CLICK
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:30:16.711 SettingPageTest:93 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:30:17.457 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:31:25.944 TestListener:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/save_bt}) (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:275)
+	at com.qa.BaseTest.click(BaseTest.java:287)
+	at com.qa.pages.SettingPage.verifySaveButton(SettingPage.java:105)
+	at com.qa.pages.SettingPage.profileSetting(SettingPage.java:117)
+	at com.qa.tests.SettingPageTest.verifyProfileText(SettingPageTest.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.earningvideo:id/save_bt})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 25 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@899aa77 (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.earningvideo:id/save_bt})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 34 more
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:31:25.945 TestListener:41 - Base file name >>>com.qa.BaseTest@48419c07
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:31:26.200 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot6122884446324523535.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:31:26.225 SettingPageTest:77 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:34:34.635 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:34:48.901 DashboardTest:63 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:34:49.012 DashboardTest:67 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:11.102 DashboardTest:85 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:15.962 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:17.151 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:17.801 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:17.903 DashboardTest:87 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:22.850 DashboardTest:94 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:23.650 DashboardTest:98 - Recording Text visible ----
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:35:23.653 TestListener:35 - java.lang.AssertionError: expected [Recordings] but found []
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.DashboardTest.verifyDashboardTitle(DashboardTest.java:101)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:23.654 TestListener:41 - Base file name >>>com.qa.BaseTest@10ed09c6
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:23.924 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot8131038244370214352.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:35:23.945 DashboardTest:72 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:37:23.590 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:37:35.934 DashboardTest:63 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:37:36.043 DashboardTest:67 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:39:21.266 DashboardTest:85 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:39:23.536 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:39:24.112 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:39:25.176 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:39:25.969 DashboardTest:87 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:39:30.610 DashboardTest:94 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:39:32.753 DashboardTest:102 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:39:32.756 DashboardTest:72 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:42:23.145 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:42:37.553 DashboardTest:63 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:42:37.675 DashboardTest:67 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:42:54.008 DashboardTest:85 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:42:59.864 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:43:01.451 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:43:02.562 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:43:02.703 DashboardTest:87 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:43:07.612 DashboardTest:94 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:44:09.787 TestListener:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]}) (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:275)
+	at com.qa.BaseTest.click(BaseTest.java:287)
+	at com.qa.pages.DashboardPage.clickOnEditing(DashboardPage.java:106)
+	at com.qa.tests.DashboardTest.verifyDashboardTitle(DashboardTest.java:98)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 24 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@49c0b173 (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 33 more
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:44:09.788 TestListener:41 - Base file name >>>com.qa.BaseTest@64fc5962
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:44:10.087 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot9196516248999578309.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:44:10.111 DashboardTest:72 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:51:18.546 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:51:35.426 DashboardTest:63 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:51:35.574 DashboardTest:67 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:53:31.208 DashboardTest:85 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:53:34.071 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:53:35.220 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:53:35.907 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:53:36.010 DashboardTest:87 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:53:41.617 DashboardTest:94 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:54:44.716 TestListener:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]}) (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:275)
+	at com.qa.BaseTest.click(BaseTest.java:287)
+	at com.qa.pages.DashboardPage.clickOnEditing(DashboardPage.java:106)
+	at com.qa.tests.DashboardTest.verifyDashboardTitle(DashboardTest.java:98)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 24 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@532b78e0 (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 33 more
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:54:44.717 TestListener:41 - Base file name >>>com.qa.BaseTest@35d0d745
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:54:45.035 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot13946813070806133808.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:54:45.060 DashboardTest:72 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:55:02.153 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:55:19.406 DashboardTest:63 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:55:19.548 DashboardTest:67 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:55:46.564 TestListener:35 - org.openqa.selenium.WebDriverException: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: Pixel 2, platformName: android, resetKeyboard: true, systemPort: 10000, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 10, resetKeyboard: true, statBarHeight: 63, systemPort: 10000, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 04ef6a56-eb91-4b92-b571-c1c3b99ff69c
+*** Element info: {Using=id, value=com.earningvideo:id/stopVideo}
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:192)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:275)
+	at com.qa.BaseTest.click(BaseTest.java:287)
+	at com.qa.pages.MarketingPage.stopVideoButton(MarketingPage.java:51)
+	at com.qa.pages.MarketingPage.marketingScreens(MarketingPage.java:58)
+	at com.qa.tests.DashboardTest.verifyDashboardTitle(DashboardTest.java:84)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: Pixel 2, platformName: android, resetKeyboard: true, systemPort: 10000, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 10, resetKeyboard: true, statBarHeight: 63, systemPort: 10000, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 04ef6a56-eb91-4b92-b571-c1c3b99ff69c
+*** Element info: {Using=id, value=com.earningvideo:id/stopVideo}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:69)
+	at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.lambda$0(ByChained.java:38)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:72)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	... 36 more
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:55:46.568 TestListener:41 - Base file name >>>com.qa.BaseTest@298e6e3
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:55:46.662 TestListener:35 - org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: Pixel 2, platformName: android, resetKeyboard: true, systemPort: 10000, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 10, resetKeyboard: true, statBarHeight: 63, systemPort: 10000, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 04ef6a56-eb91-4b92-b571-c1c3b99ff69c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:45)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+	at com.qa.listeners.TestListener.onTestFailure(TestListener.java:42)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:67)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:633)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:55:46.663 TestListener:41 - Base file name >>>com.qa.BaseTest@26dbf5e9
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:56:02.113 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:56:28.906 DashboardTest:63 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:56:28.995 DashboardTest:67 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:56:51.810 DashboardTest:85 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:56:54.756 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:56:55.415 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:56:56.070 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:56:56.208 DashboardTest:87 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:57:01.168 DashboardTest:94 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-05-14 00:58:04.865 TestListener:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]}) (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:275)
+	at com.qa.BaseTest.click(BaseTest.java:287)
+	at com.qa.pages.DashboardPage.clickOnEditing(DashboardPage.java:106)
+	at com.qa.tests.DashboardTest.verifyDashboardTitle(DashboardTest.java:98)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 24 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@79cdc7c2 (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //androidx.appcompat.app.ActionBar.Tab[@content-desc="Edited"])[2]})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 33 more
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:58:04.867 TestListener:41 - Base file name >>>com.qa.BaseTest@5402c0ee
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:58:05.179 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot2310493270093081516.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 00:58:05.206 DashboardTest:72 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:01:11.105 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:01:24.711 DashboardTest:63 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:01:24.872 DashboardTest:67 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:01:49.613 DashboardTest:85 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:01:54.645 BaseTest:305 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:01:55.330 BaseTest:305 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:01:56.480 BaseTest:293 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:01:56.582 DashboardTest:87 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:02:02.689 DashboardTest:94 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-05-14 01:03:05.725 TestListener:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: tab_id_edit}) (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:275)
+	at com.qa.BaseTest.click(BaseTest.java:287)
+	at com.qa.pages.DashboardPage.clickOnEditing(DashboardPage.java:106)
+	at com.qa.tests.DashboardTest.verifyDashboardTitle(DashboardTest.java:98)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: tab_id_edit})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 24 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@699d17ca (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: tab_id_edit})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:cdf:5ca7:be28:3f34%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 33 more
+
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:03:05.726 TestListener:41 - Base file name >>>com.qa.BaseTest@3629f757
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:03:06.153 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot7784599976072695898.png
+[logs/Android_Pixel 2 INFO ] 2020-05-14 01:03:06.180 DashboardTest:72 - login test before method

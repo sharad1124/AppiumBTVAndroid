@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="Suite">
+     <test name="Emulator">
+    <listeners>
+<listener class-name="com.qa.listeners.TestListener"/>
+</listeners>
+   <classes>
+   <parameter name="platformName" value="Android"/>
+   <parameter name="deviceName" value="Pixel 2"/>
+   <parameter name="udid" value="emulator-5554"/>
+   <parameter name="systemPort" value="10000"/>
+    <class name="com.qa.tests.EditVideoTest"/>
+   </classes>
+   </test>
+   </suite>
+<!--  <test name="Android">
+       <listeners> 
+<listener class-name="com.qa.listeners.TestListener"/>
+</listeners>
+   <classes>
+   <parameter name="platformName" value="Android"/>
+   <parameter name="deviceName" value="Redmi_Note_7S"/>
+   <parameter name="udid" value="dc9df45"/>
+   <parameter name="systemPort" value="10001"/>   
+    <class name="com.qa.tests.DashboardTest"/>
+   </classes>
+   </test>
+</suite> Suite -->

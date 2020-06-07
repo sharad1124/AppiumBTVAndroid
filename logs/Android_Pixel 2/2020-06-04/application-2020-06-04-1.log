@@ -1,0 +1,615 @@
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:37:31.219 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:37:31.228 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:37:46.394 EditVideoTest:66 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:37:46.517 EditVideoTest:71 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:38:37.684 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:38:37.691 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:38:53.778 EditVideoTest:66 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:38:53.881 EditVideoTest:71 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:12.858 EditVideoTest:90 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:19.680 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:20.750 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:21.316 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:21.373 EditVideoTest:92 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:26.138 EditVideoTest:99 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:27.003 EditVideoPage:67 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:28.690 EditVideoPage:73 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:31.887 EditVideoPage:126 - ok_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:31.995 EditVideoPage:131 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:34.253 EditVideoPage:160 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:37.286 EditVideoPage:166 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:39.051 EditVideoPage:172 - edit name field
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:39.637 BaseTest:303 - enter card number >>>sharad
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:39.684 EditVideoPage:179 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:39:40.281 EditVideoTest:76 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:13.131 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:13.138 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:31.913 EditVideoTest:66 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:32.051 EditVideoTest:71 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:45.437 EditVideoTest:90 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:56.504 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:57.511 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:58.238 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:41:58.400 EditVideoTest:92 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:42:19.452 EditVideoTest:99 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:42:25.173 EditVideoPage:67 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:42:30.870 EditVideoPage:73 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:42:43.907 EditVideoPage:126 - ok_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:43:02.975 EditVideoPage:131 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:43:12.701 EditVideoPage:160 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:43:28.452 EditVideoPage:166 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:43:32.181 EditVideoPage:172 - edit name field
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:43:33.334 BaseTest:303 - enter card number >>>sharad
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:43:33.455 EditVideoPage:179 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 20:43:34.563 EditVideoTest:76 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:03:00.412 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:03:00.421 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 ERROR] 2020-06-04 22:03:21.254 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:03:21.255 TestListener:41 - Base file name >>>com.qa.BaseTest@69beec3c
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:04:31.983 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:04:31.994 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:04:52.797 EditVideoTest:67 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:04:52.913 EditVideoTest:72 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:04.318 EditVideoTest:91 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:12.405 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:13.507 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:14.574 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:14.644 EditVideoTest:93 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:20.893 EditVideoTest:100 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:21.730 EditVideoPage:90 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:23.318 EditVideoPage:96 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:26.470 EditVideoPage:147 - ok_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:26.576 EditVideoPage:152 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:28.377 EditVideoPage:181 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:30.029 EditVideoPage:187 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:31.541 EditVideoPage:193 - edit name field
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:32.098 BaseTest:303 - enter card number >>>sharad
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:32.133 EditVideoPage:200 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:32.697 EditVideoPage:181 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:33.597 EditVideoPage:205 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:36.785 BaseTest:303 - ADD COMPANY NAME >>>741IBM
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:37.372 BaseTest:303 - ADD INTERVIEWEE NAME >>>741Macbook
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:38.460 BaseTest:303 - ADD POSITION >>>741QA Lead
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:39.008 BaseTest:303 - STOCK 1 >>>741Stock_1
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:39.556 BaseTest:303 - STOCK 2 >>>741Stock_2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:40.094 BaseTest:303 - EXCHANGE 1 >>>741Exchange_1
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:40.634 BaseTest:303 - EXCHANGE 2 >>>741Exchange_2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:05:40.666 EditVideoPage:223 - click Add Company Save
+[logs/Android_Pixel 2 ERROR] 2020-06-04 22:06:40.734 TestListener:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/save_company_text_view}) (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:273)
+	at com.qa.BaseTest.click(BaseTest.java:285)
+	at com.qa.pages.EditVideoPage.clickAddCompanySave(EditVideoPage.java:224)
+	at com.qa.tests.EditVideoTest.verifyDashboardTitle(EditVideoTest.java:143)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.earningvideo:id/save_company_text_view})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 24 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@7bef6f84 (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.earningvideo:id/save_company_text_view})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:461:b65d:48a3:293%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 33 more
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:06:40.736 TestListener:41 - Base file name >>>com.qa.BaseTest@4455b7bd
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:06:41.321 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot422574533530741721.png
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:06:41.355 EditVideoTest:77 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:15.144 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:15.153 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:27.759 EditVideoTest:67 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:27.866 EditVideoTest:72 - 
+**********Starting Test******** :verifyDashboardTitle*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:48.281 EditVideoTest:91 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:54.157 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:55.231 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:55.807 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:08:55.875 EditVideoTest:93 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:01.251 EditVideoTest:100 - Dashboard Text visible ----true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:02.093 EditVideoPage:90 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:03.367 EditVideoPage:96 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:05.624 EditVideoPage:147 - ok_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:06.933 EditVideoPage:152 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:08.606 EditVideoPage:181 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:10.276 EditVideoPage:187 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:11.819 EditVideoPage:193 - edit name field
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:12.367 BaseTest:303 - enter card number >>>sharad
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:12.400 EditVideoPage:200 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:13.497 EditVideoPage:181 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:14.571 EditVideoPage:205 - click 3 dot
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:15.658 BaseTest:303 - ADD COMPANY NAME >>>246IBM
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:16.194 BaseTest:303 - ADD INTERVIEWEE NAME >>>246Macbook
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:16.733 BaseTest:303 - ADD POSITION >>>246QA Lead
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:17.273 BaseTest:303 - STOCK 1 >>>246Stock_1
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:17.808 BaseTest:303 - STOCK 2 >>>246Stock_2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:18.346 BaseTest:303 - EXCHANGE 1 >>>246Exchange_1
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:18.894 BaseTest:303 - EXCHANGE 2 >>>246Exchange_2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:18.928 EditVideoPage:223 - click Add Company Save
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:09:36.853 EditVideoTest:77 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:55:10.999 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:55:11.007 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 ERROR] 2020-06-04 22:55:31.663 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:55:31.664 TestListener:41 - Base file name >>>com.qa.BaseTest@d2a99b7
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:56:36.152 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:56:36.161 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:56:48.790 EditVideoTest:70 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:56:48.904 EditVideoTest:77 - 
+**********Starting Test******** :verifyDeleteAddedVideo*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:01.862 EditVideoTest:180 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:07.781 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:08.848 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:09.902 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:09.970 EditVideoTest:182 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:09.970 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:17.067 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:17.799 EditVideoPage:202 - click_on_add_button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:17.890 EditVideoPage:208 - click_on_add_button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:23.004 EditVideoPage:214 - stopVideo
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:40.192 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:46.028 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:46.776 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:46.832 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:46.861 EditVideoTest:194 - No video Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-06-04 22:57:46.916 TestListener:35 - java.lang.AssertionError: expected [null] but found [No Videos Available. Please add a recording]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.EditVideoTest.verifyDeleteAddedVideo(EditVideoTest.java:199)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:46.917 TestListener:41 - Base file name >>>com.qa.BaseTest@4e458f03
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:47.205 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot15077360711497109783.png
+[logs/Android_Pixel 2 INFO ] 2020-06-04 22:57:47.230 EditVideoTest:82 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:01:41.847 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:01:41.854 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:01:54.314 EditVideoTest:70 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:01:54.428 EditVideoTest:77 - 
+**********Starting Test******** :verifyDeleteAddedVideo*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:05.940 EditVideoTest:180 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:08.093 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:08.649 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:09.206 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:09.271 EditVideoTest:182 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:09.271 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:14.360 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:15.907 EditVideoPage:202 - click_on_add_button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:15.989 EditVideoPage:208 - click_on_add_button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:03:20.180 EditVideoPage:214 - stopVideo
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:04:21.499 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:04:26.144 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:04:27.691 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:04:27.736 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:04:27.763 EditVideoTest:194 - No video Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-06-04 23:04:27.817 TestListener:35 - java.lang.AssertionError: expected [null] but found [No Videos Available. Please add a recording]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.EditVideoTest.verifyDeleteAddedVideo(EditVideoTest.java:199)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:04:27.818 TestListener:41 - Base file name >>>com.qa.BaseTest@63c7f90a
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:04:28.102 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot5700860609055275731.png
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:04:28.126 EditVideoTest:82 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:08:33.793 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:08:33.801 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:08:46.746 EditVideoTest:70 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:08:46.857 EditVideoTest:77 - 
+**********Starting Test******** :verifyDeleteAddedVideo*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:03.246 EditVideoTest:181 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:07.629 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:08.700 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:09.762 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:09.833 EditVideoTest:183 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:09.833 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:15.387 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:16.992 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:17.052 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:17.084 EditVideoTest:195 - No video Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-06-04 23:09:17.145 TestListener:35 - java.lang.AssertionError: expected [Earnings Videos] but found [No Videos Available. Please add a recording]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.EditVideoTest.verifyDeleteAddedVideo(EditVideoTest.java:200)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:17.145 TestListener:41 - Base file name >>>com.qa.BaseTest@5fdf699
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:17.447 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot12397937403633109369.png
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:09:17.471 EditVideoTest:82 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:11:20.447 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:11:20.455 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:11:32.891 EditVideoTest:70 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:11:33.002 EditVideoTest:77 - 
+**********Starting Test******** :verifyDeleteAddedVideo*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:28.946 EditVideoTest:181 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:30.981 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:32.055 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:33.116 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:33.169 EditVideoTest:183 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:33.169 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:38.649 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:40.233 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:40.288 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:40.317 EditVideoTest:195 - No video Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-06-04 23:12:40.380 TestListener:35 - java.lang.AssertionError: expected [null] but found [No Videos Available. Please add a recording]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.EditVideoTest.verifyDeleteAddedVideo(EditVideoTest.java:200)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:40.380 TestListener:41 - Base file name >>>com.qa.BaseTest@69dcf2ff
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:40.838 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot8396654873407569844.png
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:12:40.868 EditVideoTest:82 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:20:30.602 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:20:30.610 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:20:43.668 EditVideoTest:70 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:20:43.782 EditVideoTest:77 - 
+**********Starting Test******** :verifyDeleteAddedVideo*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:20:54.067 EditVideoTest:181 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:20:59.268 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:00.372 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:01.620 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:01.685 EditVideoTest:183 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:01.685 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:12.050 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:13.658 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:13.722 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:13.755 EditVideoTest:195 - No video Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-06-04 23:21:13.815 TestListener:35 - java.lang.AssertionError: expected [null] but found [No Videos Available. Please add a recording]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.EditVideoTest.verifyDeleteAddedVideo(EditVideoTest.java:200)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:13.816 TestListener:41 - Base file name >>>com.qa.BaseTest@177007a9
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:14.127 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot10667797037189492400.png
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:21:14.155 EditVideoTest:82 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:19.705 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:19.720 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:32.249 EditVideoTest:70 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:32.364 EditVideoTest:77 - 
+**********Starting Test******** :verifyDeleteAddedVideo*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:50.441 EditVideoTest:181 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:55.556 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:57.156 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:58.207 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:58.264 EditVideoTest:183 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:23:58.265 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:24:02.754 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:24:04.532 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:24:04.644 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:24:04.690 EditVideoTest:195 - No video Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-06-04 23:24:04.786 TestListener:35 - java.lang.AssertionError: expected [null] but found [No Videos Available. Please add a recording]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.EditVideoTest.verifyDeleteAddedVideo(EditVideoTest.java:200)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:24:04.787 TestListener:41 - Base file name >>>com.qa.BaseTest@147bb43e
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:24:05.502 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot2498987139286680404.png
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:24:05.529 EditVideoTest:82 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:26:43.035 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:26:43.043 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:26:55.765 EditVideoTest:70 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:26:55.896 EditVideoTest:77 - 
+**********Starting Test******** :verifyDeleteAddedVideo*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:00.124 EditVideoTest:181 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:02.431 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:03.486 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:04.112 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:04.180 EditVideoTest:183 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:04.180 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:10.342 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:11.924 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:11.978 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:12.008 EditVideoTest:195 - No video Text visible ----true
+[logs/Android_Pixel 2 ERROR] 2020-06-04 23:28:12.062 TestListener:35 - java.lang.AssertionError: expected [null] but found [No Videos Available. Please add a recording]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.EditVideoTest.verifyDeleteAddedVideo(EditVideoTest.java:200)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:12.063 TestListener:41 - Base file name >>>com.qa.BaseTest@2924ec60
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:12.580 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot13933307907500857385.png
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:28:12.608 EditVideoTest:82 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:29:30.573 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:29:30.582 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:29:43.293 EditVideoTest:70 - login test before metod
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:29:43.420 EditVideoTest:77 - 
+**********Starting Test******** :verifyDeleteAddedVideo*****
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:00.385 EditVideoTest:181 - >>>>>Marketing Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:05.765 BaseTest:303 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:06.419 BaseTest:303 - enter Password is >>>Password1124!
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:07.023 BaseTest:291 - Press login button
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:07.094 EditVideoTest:183 - >>>>>Login Screen<<<<<<
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:07.095 EditVideoPage:129 - EDIT Button Clicked
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:11.933 EditVideoPage:196 - save_button_text_view
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:13.495 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:13.549 EditVideoPage:120 - ALL VIDEO DELETED----->true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:13.575 EditVideoTest:195 - No video Text visible ----true
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:30:13.631 EditVideoTest:82 - login test before method
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:59:18.925 BaseTest:211 - log path:logs/Android_Pixel 2
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:59:18.933 BaseTest:249 - appUrl is/Users/sharadgupta/Documents/automation/RunServer/target/classes/app/btv.apk
+[logs/Android_Pixel 2 ERROR] 2020-06-04 23:59:39.419 TestListener:35 - java.lang.NullPointerException
+	at com.qa.listeners.TestListener.onTestSkipped(TestListener.java:98)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:526)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel 2 INFO ] 2020-06-04 23:59:39.420 TestListener:41 - Base file name >>>com.qa.BaseTest@1d1388fe

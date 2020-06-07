@@ -1,0 +1,165 @@
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:29:45.053 BaseTest:202 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:29:58.480 LoginTest:79 - START RECORDING BUTTON CLICKED
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:29:59.760 LoginTest:81 - SCREEN ORIENTATION CHANGE
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:29:59.988 LoginTest:84 - START VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:30:12.628 LoginTest:87 - STOP VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:30:20.565 LoginTest:91 - LOGIN BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:30:25.998 LoginTest:102 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:30:26.796 LoginTest:104 - DASHBOARD LOGOUT BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:30:28.000 LoginTest:106 - >>>>>>USER LOGGED OUT<<<<<<
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:42:34.655 BaseTest:202 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:42:45.875 LoginTest:79 - START RECORDING BUTTON CLICKED
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:42:47.488 LoginTest:81 - SCREEN ORIENTATION CHANGE
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:42:47.674 LoginTest:84 - START VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:43:02.974 LoginTest:87 - STOP VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:43:10.565 LoginTest:91 - LOGIN BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:43:16.483 LoginTest:102 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:43:17.318 LoginTest:104 - DASHBOARD LOGOUT BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:43:18.508 LoginTest:106 - >>>>>>USER LOGGED OUT<<<<<<
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:53:07.524 BaseTest:202 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:53:19.919 LoginTest:79 - START RECORDING BUTTON CLICKED
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:53:21.898 LoginTest:81 - SCREEN ORIENTATION CHANGE
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:53:22.110 LoginTest:84 - START VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:54:23.425 LoginTest:87 - STOP VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:54:27.384 LoginTest:91 - LOGIN BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:54:33.997 LoginTest:102 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:54:35.113 LoginTest:104 - DASHBOARD LOGOUT BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 00:54:35.900 LoginTest:106 - >>>>>>USER LOGGED OUT<<<<<<
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:42:59.152 BaseTest:200 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:43:13.579 LoginTest:79 - START RECORDING BUTTON CLICKED
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:43:14.745 LoginTest:81 - SCREEN ORIENTATION CHANGE
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:43:15.499 LoginTest:84 - START VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:43:29.417 LoginTest:87 - STOP VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:43:38.356 LoginTest:91 - LOGIN BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:43:44.389 LoginTest:102 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:43:45.187 LoginTest:104 - DASHBOARD LOGOUT BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 01:43:46.135 LoginTest:106 - >>>>>>USER LOGGED OUT<<<<<<
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:33:30.176 BaseTest:202 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:33:42.221 LoginTest:80 - START RECORDING BUTTON CLICKED
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:33:43.459 LoginTest:82 - SCREEN ORIENTATION CHANGE
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:33:44.162 LoginTest:85 - START VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:45.449 LoginTest:88 - STOP VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:47.883 BaseTest:250 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:48.482 BaseTest:250 - enter Password is >>>Password1124!
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:49.084 BaseTest:238 - Press login button
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:49.181 LoginTest:92 - LOGIN BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:55.087 LoginTest:103 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:55.910 LoginTest:105 - DASHBOARD LOGOUT BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:57.031 LoginTest:107 - >>>>>>USER LOGGED OUT<<<<<<
+[logs/Android_Pixel_2 ERROR] 2020-05-10 02:34:57.987 TestListener:35 - java.lang.AssertionError: expected [null777] but found [Please login to save your recordings.]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.LoginTest.verifyLogin(LoginTest.java:112)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:57.987 TestListener:41 - Base file name >>>com.qa.BaseTest@2d9197c
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:34:58.345 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot5193368676330569381.png
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:36:30.684 BaseTest:202 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:36:42.566 LoginTest:80 - START RECORDING BUTTON CLICKED
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:36:44.045 LoginTest:82 - SCREEN ORIENTATION CHANGE
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:36:44.281 LoginTest:85 - START VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:36:59.859 LoginTest:88 - STOP VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:05.013 BaseTest:250 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:05.650 BaseTest:250 - enter Password is >>>Password1124!
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:06.781 BaseTest:238 - Press login button
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:06.879 LoginTest:92 - LOGIN BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:12.755 LoginTest:103 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:13.558 LoginTest:105 - DASHBOARD LOGOUT BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:14.318 LoginTest:107 - >>>>>>USER LOGGED OUT<<<<<<
+[logs/Android_Pixel_2 ERROR] 2020-05-10 02:37:15.184 TestListener:35 - java.lang.AssertionError: expected [null777] but found [Please login to save your recordings.]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.LoginTest.verifyLogin(LoginTest.java:112)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:15.185 TestListener:41 - Base file name >>>com.qa.BaseTest@2cda4c1b
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:37:15.503 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot16675018127164149584.png
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:40:48.074 BaseTest:202 - appUrl is/Users/sharadgupta/Documents/automation/TDDFramework/target/classes/app/btv.apk
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:40:59.435 LoginTest:80 - START RECORDING BUTTON CLICKED
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:01.508 LoginTest:82 - SCREEN ORIENTATION CHANGE
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:01.975 LoginTest:85 - START VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:16.840 LoginTest:88 - STOP VIDEO BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:23.007 BaseTest:250 - enter email id is >>>yashimittal09+1@gmail.com
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:23.614 BaseTest:250 - enter Password is >>>Password1124!
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:24.731 BaseTest:238 - Press login button
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:24.786 LoginTest:92 - LOGIN BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:30.617 LoginTest:103 - DASHBOARD SETTING BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:31.441 LoginTest:105 - DASHBOARD LOGOUT BUTTON CLICK
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:32.725 LoginTest:107 - >>>>>>USER LOGGED OUT<<<<<<
+[logs/Android_Pixel_2 ERROR] 2020-05-10 02:41:33.821 TestListener:35 - java.lang.AssertionError: expected [Please login to save your recordings.777] but found [Please login to save your recordings.]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.qa.tests.LoginTest.verifyLogin(LoginTest.java:112)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:33.821 TestListener:41 - Base file name >>>com.qa.BaseTest@5b0c0087
+[logs/Android_Pixel_2 INFO ] 2020-05-10 02:41:34.182 TestListener:43 - base file name/var/folders/md/dn9m3dgs71v3r6n13phj8sf80000gq/T/screenshot13523843709369374640.png

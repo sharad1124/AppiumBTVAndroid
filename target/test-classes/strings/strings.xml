@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <string name="pro_tip_message">PRO TIP</string>
+   <string name="lighting_text">Lighting</string>
+   <string name="professional_text">Professional looking Office</string>
+   <string name="login_screen_text">Please login to save your recordings.</string>
+   <string name="Dashboard_screen_text">Earnings Videos</string>
+   <string name="Dashboard_screen">No Videos Available.Please add a recording</string>
+   <string name="Recording_text">Recordings</string>
+   <string name="Editing_text">Edited</string>
+   <string name="Setting_Heading">Settings</string>
+   <string name="Profile_Heading">Profile</string>
+</resources>

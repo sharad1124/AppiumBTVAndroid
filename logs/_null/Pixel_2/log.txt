@@ -1,0 +1,63 @@
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.DashboardTest:
+**********Starting Test******** :verifyDashboardTitle*****
+
+13::null:com.qa.tests.DashboardTest:login test before metod
+13::null:com.qa.tests.DashboardTest:
+**********Starting Test******** :verifyDashboardTitle*****
+
+13::null:com.qa.tests.DashboardTest:login test before metod
+13::null:com.qa.tests.DashboardTest:
+**********Starting Test******** :verifyDashboardTitle*****
+
+13::null:com.qa.tests.DashboardTest:
+**********Starting Test******** :verifyDashboardTitle*****
+
+13::null:com.qa.tests.DashboardTest:login test before metod
+13::null:com.qa.tests.DashboardTest:
+**********Starting Test******** :verifyDashboardTitle*****
+
+13::null:com.qa.tests.DashboardTest:login test before metod
+13::null:com.qa.tests.LoginTest:
+**********Starting Test******** :verifyLogin*****
+
+13::null:com.qa.tests.LoginTest:login test before method
+13::null:com.qa.tests.DashboardTest:
+**********Starting Test******** :verifyDashboardTitle*****
+
+13::null:com.qa.tests.DashboardTest:login test before metod
+13::null:com.qa.tests.DashboardTest:
+**********Starting Test******** :verifyDashboardTitle*****
+
+13::null:com.qa.tests.DashboardTest:login test before metod

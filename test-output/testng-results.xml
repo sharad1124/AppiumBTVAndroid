@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-04T19:38:15Z" name="Suite" finished-at="2020-06-04T19:40:28Z" duration-ms="133403">
+    <groups>
+    </groups>
+    <test started-at="2020-06-04T19:38:15Z" name="Emulator" finished-at="2020-06-04T19:40:28Z" duration-ms="133403">
+      <class name="com.qa.tests.EditVideoTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:38:15Z" name="beforeSuite" finished-at="2020-06-04T19:38:15Z" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:38:15Z" name="beforeTest" finished-at="2020-06-04T19:38:24Z" duration-ms="9353" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[androidOnly]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pixel 2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:38:24Z" name="beforeClass" finished-at="2020-06-04T19:38:30Z" duration-ms="5389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:38:30Z" name="beforeMethod" finished-at="2020-06-04T19:38:41Z" duration-ms="10764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:38:41Z" name="beforeMethod" finished-at="2020-06-04T19:38:41Z" duration-ms="102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.EditVideoTest.verifyDashboardTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyDashboardTitle()[pri:1, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:38:41Z" name="verifyDashboardTitle" finished-at="2020-06-04T19:40:26Z" duration-ms="105510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardTitle -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:40:26Z" name="afterMethod" finished-at="2020-06-04T19:40:26Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:40:26Z" name="afterMethod" finished-at="2020-06-04T19:40:28Z" duration-ms="2267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyDashboardTitle status=SUCCESS method=EditVideoTest.verifyDashboardTitle()[pri:1, instance:com.qa.tests.EditVideoTest@67c33749] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:40:28Z" name="afterClass" finished-at="2020-06-04T19:40:28Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:40:28Z" name="afterTest" finished-at="2020-06-04T19:40:28Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.qa.tests.EditVideoTest@67c33749]" started-at="2020-06-04T19:40:29Z" name="afterSuite" finished-at="2020-06-04T19:40:29Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.qa.tests.EditVideoTest -->
+    </test> <!-- Emulator -->
+  </suite> <!-- Suite -->
+</testng-results>
